@@ -7,8 +7,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="Header">Trello Clone
-          <button className="btn-u">user</button>
+        <div className="Header">Task Manager 1000
+       //   <button className="btn-u">user</button>
         </div>
         
         <Board />
